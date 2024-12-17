@@ -1,0 +1,30 @@
+_repo: Varens-en-mos_74747
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kloosterman, J. R. (Jan Ritskes)
+    alias: Kloosterman, Jan Ritskes
+    birthdate: 1847
+    deathdate: 1914
+    gutenberg_agent_id: '57297'
+    url: http://www.gutenberg.org/2009/agents/57297
+    wikipedia: https://fy.wikipedia.org/wiki/Jan_Ritskes_Kloosterman
+description: ''
+gutenberg_issued: '2024-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74747'
+language: nl
+pgterms:marc905: 20241012031510kloosterma
+pgterms:marc906: '1896'
+pgterms:marc907: nl
+publication_note: '  $aBergum :$bT.G. van der Meulen, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch poetry'
+- !lcc 'PT'
+- GITenberg
+title: Varens en mos
+url: http://www.gutenberg.org/ebooks/74747
